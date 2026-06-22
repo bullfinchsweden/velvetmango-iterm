@@ -1,7 +1,7 @@
 # Velvet Mango iTerm
 The Velvet Mango color scheme for iTerm2.
 
-<img width="103" height="103" alt="Mango" src="https://github.com/user-attachments/assets/25bfba99-6ad4-4851-90a7-a1a33f029157" /><br/>
+<img src="Images/Mango.png"><br/>
 
 * [iTerm2 for macOS](https://iterm2.com/)
 
@@ -9,6 +9,6 @@ The Velvet Mango color scheme for iTerm2.
 
 *Velvet Mango.itermcolors*
 
-<img width="260" height="82" alt="VelvetMangoiTerm1" src="https://github.com/user-attachments/assets/60ae16a0-52fc-4d67-a887-692f6694dbe6" /><br/>
+<img src="Images/VelvetMangoiTerm1.png" width="260" height="82" /><br/>
 
-<img width="785" height="398" alt="VelvetMangoiTerm2" src="https://github.com/user-attachments/assets/b394765b-5214-48b7-b33c-e5cfe05458d6" />
+<img src="Images/VelvetMangiiTerm2.png" width="785" height="398" />
