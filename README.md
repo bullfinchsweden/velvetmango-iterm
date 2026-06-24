@@ -5,7 +5,7 @@ The Velvet Mango color scheme for iTerm2.
 
 * [iTerm2 for macOS](https://iterm2.com/)
 
-* [Velvet Mango color scheme](https://github.com/miles-crighton/velvet-mango-vscode)<br/>
+* [Velvet Mango for VS Code](https://github.com/miles-crighton/velvet-mango-vscode)<br/>
 
 *Velvet Mango.itermcolors*
 
