@@ -7,6 +7,8 @@ The Velvet Mango color scheme for iTerm2.
 
 * [Velvet Mango for VS Code](https://github.com/miles-crighton/velvet-mango-vscode)<br/>
 
+<img src="Images/VelvetMango.jpg" width="768" height="320" /><br/>
+
 *Velvet Mango.itermcolors*
 
 <img src="Images/VelvetMangoiTerm1.png" width="260" height="82" /><br/>
