@@ -11,6 +11,4 @@ The Velvet Mango color scheme for iTerm2.
 
 *Velvet Mango.itermcolors*
 
-<img src="Images/VelvetMangoiTerm1.png" width="260" height="82" /><br/>
-
-<img src="Images/VelvetMangoiTerm2.png" width="785" height="398" />
+<img src="Images/VelvetMangoiTerm.png" width="764.5" height="376.5" />
